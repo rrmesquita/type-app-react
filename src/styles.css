@@ -1,0 +1,30 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.word {
+  transition: height 300ms ease-in-out, opacity 300ms ease-in-out, font-size 300ms ease-in-out;
+  opacity: 1;
+  height: 80px;
+}
+
+.word-hidden {
+  opacity: 0;
+  height: 0;
+  z-index: -1;
+}
+
+.word-container {
+  height: 400px;
+  overflow: hidden;
+}
+
+.miss {
+  /* color: #f00; */
+}
+
+.hit {
+  /* color: #0f0; */
+}

@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# type-app
+
+Simple typing game/application
+
+[View the demo](https://rodrigoriome.github.io/projects/type-app-react/)
 
 ## Available Scripts
 
