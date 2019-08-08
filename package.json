@@ -2,6 +2,11 @@
   "name": "type-app-react",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Rodrigo Mesquita",
+    "email": "rodrigoriome@gmail.com",
+    "url": "https://rodrigoriome.github.io/"
+  },
   "homepage": "https://rodrigoriome.github.io/projects/type-app-react",
   "dependencies": {
     "react": "^16.8.6",
